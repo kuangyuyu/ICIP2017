@@ -1,4 +1,4 @@
-[Scan in Qiniu](http://p3rzhn8tt.bkt.clouddn.com/ICIP2017.html)
+[Scan in Qiniu](http://p3rzhn8tt.bkt.clouddn.com/ICIP2017.html) | [HtmlPrevirw](http://htmlpreview.github.io/?https://github.com/kuangyuyu/ICIP2017/blob/master/ICIP2017.html)
 
 # ICIP 2017 Proceedings USB
 
